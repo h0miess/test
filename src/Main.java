@@ -4,5 +4,6 @@ public class Main {
         System.out.println("git");
         System.out.println("1234567");
         System.out.println("good bye!");
+        System.out.println("try ssh");
     }
 }
