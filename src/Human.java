@@ -3,4 +3,8 @@ public class Human {
      public Human(int age) {
          this.age = age;
      }
+
+     public int getAge() {
+         return this.age;
+     }
 }
